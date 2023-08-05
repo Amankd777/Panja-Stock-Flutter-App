@@ -19,8 +19,8 @@ Panja is a comprehensive finance-related Flutter application designed to provide
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/YourUsername/Panja-Flutter-App.git
-    cd Panja-Flutter-App
+    git clone https://github.com/Amankd777/Panja-Stock-Flutter-App.git
+    cd Panja-Stock-Flutter-App
     ```
 
 2. Install the required dependencies:
