@@ -1,6 +1,6 @@
 # Panja: Your Finance Companion
 
-img[src*=assets/images/panja.png] {
+img[src*="assets/images/panja.png"] {
    width:150px;
    height:100px;
 }
