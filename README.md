@@ -1,6 +1,7 @@
 # Panja: Your Finance Companion
 
-![Panja Logo](assets/images/panja.png)
+![Panja Logo]<img src="assets/images/panja.png"  width="50%" height="50%">
+
 
 Panja is a comprehensive finance-related Flutter application designed to provide a range of features, including educational content, price prediction, real-time price charts, and portfolio management. Whether you're a beginner in the world of finance or an experienced investor, Panja has something to offer.
 
@@ -13,16 +14,6 @@ Panja is a comprehensive finance-related Flutter application designed to provide
 - **Real-time Price Charts:** Stay up-to-date with real-time price changes using third-party APIs, and visualize price trends through interactive charts.
 
 - **Portfolio Management:** Utilize stock similarity algorithms to manage your investment portfolio effectively, optimizing your holdings for better returns.
-
-## Screenshots
-
-![Home Page](./screenshots/home_page.png)
-
-![Price Prediction](./screenshots/price_prediction.png)
-
-![Real-time Charts](./screenshots/real_time_charts.png)
-
-![Portfolio Management](./screenshots/portfolio_management.png)
 
 ## Installation
 
@@ -59,10 +50,6 @@ We welcome contributions from the community! If you find any issues or have sugg
 - [Yahoo Finance API](https://finance.yahoo.com/)
 - [Machine Learning Models](https://scikit-learn.org/)
 - [Charting Library](https://www.example-chart-library.com/)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
