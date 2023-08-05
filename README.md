@@ -1,9 +1,6 @@
 # Panja: Your Finance Companion
 
-img[src*="assets/images/panja.png"] {
-   width:150px;
-   height:100px;
-}
+<img src="assets/images/panja.png" width="100" height="100">
 
 Panja is a comprehensive finance-related Flutter application designed to provide a range of features, including educational content, price prediction, real-time price charts, and portfolio management. Whether you're a beginner in the world of finance or an experienced investor, Panja has something to offer.
 
